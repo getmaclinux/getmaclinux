@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raw53 (known as Rawintosh).
 - 👀 I’m interested in making designs.
 - 👁️ I'm a YouTuber.
-- 📖 I may learn Python in future.
+- 📖 I'm gonna learn Python in future.
 - 😳 Nothing more.
 
 <!---
