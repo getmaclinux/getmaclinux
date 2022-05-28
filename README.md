@@ -2,8 +2,4 @@
 - 👀 I’m interested in making designs.
 - 👁️ I'm a YouTuber.
 - 📖 I'm gonna learn Python in future.
-- 😳 Nothing more.
-
-<!---
-What
---->
+- 😳 I already learned it i think.
